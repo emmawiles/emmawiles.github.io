@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Emma Wiles"
 title_separator          : "-"
 name                     : &name "Emma Wiles"
@@ -29,7 +29,7 @@ author:
   name             : "Emma Wiles"
   pronouns         : # example: "she/her"  
   bio              : "Isabel Anderson Career Development Professor of Information Systems"
-  location         : "Boston, Massachusettes"
+  location         : #"Boston, Massachusettes"
   employer         : "Boston University"
   uri              : # URL
   email            : "emma [dot] b [dot] wiles [at] gmail [dot] com" 
@@ -127,7 +127,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
