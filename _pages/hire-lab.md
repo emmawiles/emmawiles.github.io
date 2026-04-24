@@ -11,14 +11,18 @@ Current projects examine AI-assistance in hiring, matching and hiring on online 
 
 We collaborate with industry partners and policy audiences, with the goal of producing evidence that informs the design and governance of AI-enabled labor markets.
 
-![HIRE Lab](/images/HIRE_lab.jpg)
-
-## Team
-
-- Gagan Singhal (BU, MS AI)
-- Reeya Panda (BU, MS SP)
-- Lily Jihyun Son (BU, MS CS)
-- Katelyn Cranney (Stanford, Economics)
-- Kunhan Wu (BU, Questrom)
-- John Fallon (BU, Economics)
-- Christian Wilson (BU, Economics)
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+  <div>
+    <h2>Team</h2>
+    <ul>
+      <li>Gagan Singhal (BU, MS AI)</li>
+      <li>Reeya Panda (BU, MS SP)</li>
+      <li>Lily Jihyun Son (BU, MS CS)</li>
+      <li>Katelyn Cranney (Stanford, Economics)</li>
+      <li>Kunhan Wu (BU, Questrom)</li>
+      <li>John Fallon (BU, Economics)</li>
+      <li>Christian Wilson (BU, Economics)</li>
+    </ul>
+  </div>
+  <img src="/images/HIRE_lab.jpg" style="width: 45%;" alt="HIRE Lab">
+</div>
