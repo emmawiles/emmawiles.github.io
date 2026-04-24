@@ -11,6 +11,8 @@ Current projects examine AI-assistance in hiring, matching and hiring on online 
 
 We collaborate with industry partners and policy audiences, with the goal of producing evidence that informs the design and governance of AI-enabled labor markets.
 
+![HIRE Lab](/images/HIRE_lab.jpg)
+
 ## Team
 
 - Gagan Singhal (BU, MS AI)
