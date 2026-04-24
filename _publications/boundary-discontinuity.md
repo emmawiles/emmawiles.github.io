@@ -5,7 +5,7 @@ category: publications
 permalink: /publication/boundary-discontinuity
 excerpt: 'Estimated spillover impacts from local minimum wage increases on wages and hours are statistically significant and geographically diffuse, creating concern for standard boundary discontinuity estimates even using non-adjacent control regions.'
 date: 2024-02-01
-venue: 'Journal of Public Economics'
+venue: 'Journal of Public Economics (2024)'
 paperurl: 'https://emmawiles.github.io/storage/Boundary_Discontinuity_Methods_and_Policy_Spillovers.pdf'
 workingpaperurl: 'https://www.nber.org/papers/w30075'
 coauthors: 'Ekaterina Jardim, Mark C. Long, Robert Plotnick, Jacob Vigdor'

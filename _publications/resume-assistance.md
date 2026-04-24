@@ -5,7 +5,7 @@ category: publications
 permalink: /publication/resume-assistance
 excerpt: 'In a field experiment with nearly half a million jobseekers, algorithmic writing assistance on resumes increased hires by 8%, with no evidence that employers were less satisfied — suggesting better writing helps employers ascertain ability rather than distorting signals.'
 date: 2025-01-01
-venue: 'Management Science'
+venue: 'Management Science (2025)'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/mnsc.2024.04528'
 workingpaperurl: 'https://www.nber.org/papers/w30886'
 coauthors: 'Zanele Munyikwa and John Horton'

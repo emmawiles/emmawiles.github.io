@@ -5,7 +5,7 @@ category: publications
 permalink: /publication/temporary-upskilling
 excerpt: 'BCG consultants with ChatGPT access scored 49, 20, and 18 percentage points higher than controls on data science tasks — but showed no improvement when tested without AI afterward, revealing the gains are temporary and reliant on continued AI use.'
 date: 2024-06-01
-venue: 'Nature Human Behaviour (accepted)'
+venue: 'Nature Human Behaviour (2026)'
 paperurl: 'https://emmawiles.github.io/storage/reskill.pdf'
 appendixurl: 'https://emmawiles.github.io/storage/reskill_online_appendix.pdf'
 coauthors: 'Lisa Krayer, Mohamed Abbadi, Urvi Awasthi, Ryan Kennedy, Pamela Mishkin, Daniel Sack, Francois Candelon'

@@ -4,8 +4,8 @@ collection: publications
 category: publications
 permalink: /publication/seattle-minimum-wage
 excerpt: 'Seattles minimum wage increases to $11 (2015) and $13 (2016) reduced aggregate hours in low-wage jobs and significantly reduced hours for less-experienced workers, with aggregate employment elasticities in the range of -0.2 to -2.0.'
-date: 2025-01-01
-venue: 'AEJ: Economic Policy'
+date: 2022-01-01
+venue: 'AEJ: Economic Policy (2022)'
 paperurl: 'https://emmawiles.github.io/storage/Minimum_Wage_Increases_AEJEP.pdf'
 appendixurl: 'https://drive.google.com/file/d/1aVEXveCfZRzRONkUCNcOOjOuaIaVqZpk/view'
 workingpaperurl: 'https://www.nber.org/papers/w23532'
