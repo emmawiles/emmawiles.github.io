@@ -9,6 +9,7 @@ venue: 'Journal of Public Economics'
 paperurl: 'https://emmawiles.github.io/storage/Boundary_Discontinuity_Methods_and_Policy_Spillovers.pdf'
 workingpaperurl: 'https://www.nber.org/papers/w30075'
 coauthors: 'Ekaterina Jardim, Mark C. Long, Robert Plotnick, Jacob Vigdor'
+so_what: "Local minimum wage studies that use nearby areas as controls may understate the true effects, because the policy itself raises wages in those 'control' areas through worker mobility."
 ---
 
 The boundary discontinuity method of causal inference may yield misleading results if a policy's impacts do not stop at the border of the implementing jurisdiction. We use geographically precise longitudinal employment data documenting worker job-to-job mobility to study policy spillovers in the context of three local minimum wage increases. Estimated spillover impacts on wages and hours are statistically significant, geographically diffuse, and sufficient to create concern regarding interpretation of results even using not-immediately-adjacent regions as controls. Spillover effects appear less concerning with smaller interventions or those adopted in a smaller jurisdiction.
