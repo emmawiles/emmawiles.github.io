@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emma Wiles"
+title: "Emma Wiles (née van Inwegen)"
 author_profile: true
 redirect_from: 
   - /about/
