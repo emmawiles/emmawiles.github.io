@@ -76,6 +76,17 @@ details p {
 </div>
 {% endfor %}
 
+{% if post.media %}
+<details>
+  <summary>Media coverage</summary>
+  <ul>
+  {% for item in post.media %}
+    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+</details>
+{% endif %}
+
 ---
 
 ## Publications
@@ -103,6 +114,17 @@ details p {
 </div>
 {% endfor %}
 
+{% if post.media %}
+<details>
+  <summary>Media coverage</summary>
+  <ul>
+  {% for item in post.media %}
+    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+</details>
+{% endif %}
+
 ---
 
 ## Graveyard
@@ -129,3 +151,13 @@ details p {
   {% endif %}
 </div>
 {% endfor %}
+{% if post.media %}
+<details>
+  <summary>Media coverage</summary>
+  <ul>
+  {% for item in post.media %}
+    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+</details>
+{% endif %}
