@@ -32,7 +32,7 @@ author:
   location         : #"Boston, Massachusettes"
   employer         : "Boston University"
   uri              : # URL
-  email            : "emma [dot] b [dot] wiles [at] gmail [dot] com" 
+  email            : #"emma [dot] b [dot] wiles [at] gmail [dot] com" 
 
   # Academic websites
   academia         : # URL
