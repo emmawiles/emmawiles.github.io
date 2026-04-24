@@ -98,7 +98,7 @@ details p {
   <div class="paper-title">
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
   </div>
-  <div class="paper-meta">{{ post.coauthors }}</div>
+<div class="paper-meta">with {{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
   <div style="display: flex; gap: 1em;">
     {% if post.content and post.content != '' %}
@@ -137,7 +137,7 @@ details p {
   <div class="paper-title">
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
   </div>
-  <div class="paper-meta">{{ post.coauthors }}</div>
+<div class="paper-meta">with {{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
   <div style="display: flex; gap: 1em;">
     {% if post.content and post.content != '' %}
