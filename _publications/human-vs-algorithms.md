@@ -1,12 +1,12 @@
 ---
-title: "Human Assistance Can't Beat Algorithms with Online Hiring"
+title: "The Diminishing Returns to Human Recruiting in Online Labor Markets"
 collection: publications
 category: working_papers
 permalink: /publication/human-vs-algorithms
 excerpt: 'In a randomized experiment with 83,017 job posts, human recruiting assistants generated more applications and interviews but did not improve hire rates — and treated employers spent 10% less on hires, suggesting worse matches.'
-date: 2024-01-03
-venue: 'Working Paper'
+date: 2025-01-02
+venue: 
 coauthors: 'John Fallon and John Horton'
 ---
 
-We study a randomized experiment in which a large online labor market assigned human assistants to 83,017 job posts, with 25% serving as controls. Treated employers received 13% more applications and 35% more interviews, but hired at the same rate as control employers who had access only to algorithmic tools. Treated employers also spent 10% less on hires in the first 30 days, suggesting human assistance produced worse matches. We develop a model of delegated recruiting with shared information noise to explain these findings: as algorithmic screening improves and more worker quality becomes easily observable from profiles, the scope for recruiter-added value shrinks further.
+Firms spend hundreds of billions of dollars annually on outside recruiting help, yet it is unclear whether human intermediaries add value when employers already have access to algorithmic screening tools. We study a randomized experiment in a large online labor market that assigned human recruiting assistance to job postings. Treated employers received 16% more applications and conducted 35% more interviews but were no more likely to hire than control employers with access only to algorithmic tools. Match quality declined: treated employers spent less on hires and their workers completed fewer hours. We develop a model of delegated recruiting in which recruiters and employers rely on a common noisy signal, which can generate these patterns when their assessments are highly correlated. Consistent with this mechanism, recruited applicants are positively selected on engagement-related characteristics yet do not improve hiring outcomes. These findings suggest that as algorithmic screening improves, the scope for intermediaries to add value shrinks because it becomes harder to access independent information.

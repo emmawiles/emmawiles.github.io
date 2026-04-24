@@ -4,8 +4,8 @@ collection: publications
 category: working_papers
 permalink: /publication/ai-org-chart
 excerpt: 'We find that framing AI as an "AI Employee" (vs. "AI Tool") reduces error-catching by 16% and shifts perceived accountability away from managers — but only in firms that have already formally institutionalized AI agents on their org charts.'
-date: 2024-01-01
-venue: 'Working Paper'
+date: 2025-01-01 
+venue: 
 paperurl: 'https://emmawiles.github.io/storage/ai_employee.pdf'
 coauthors: 'Megan Hsu, Julie Bedard, and Matt Kropp'
 ---

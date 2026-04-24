@@ -4,8 +4,8 @@ collection: publications
 category: working_papers
 permalink: /publication/price-uncompetitiveness
 excerpt: 'A platform minimum wage experiment shows workers with binding price floors saw 30% lower job-finding probability but 9% higher conditional wages. They lowered search intensity and were more likely to exit the platform rather than shifting to uncovered jobs.'
-date: 2024-01-04
-venue: 'Working Paper'
+date: 2025-01-04 
+venue: 
 coauthors: 'Apostolos Filippas and John Horton'
 ---
 
