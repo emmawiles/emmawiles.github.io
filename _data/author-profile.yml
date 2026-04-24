@@ -1,0 +1,27 @@
+# ===================================================
+# Paste this into _config.yml in the academicpages
+# template, replacing the author section
+# ===================================================
+
+author:
+  name             : "Emma Wiles"
+  avatar           : "/images/profile.jpg"   # add your photo to /images/
+  bio              : "Assistant Professor, Boston University Questrom School of Business"
+  location         : "Boston, MA"
+  email            : "emma.b.wiles@gmail.com"
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://emmawiles.github.io/storage/wiles_emma_cv.pdf"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=mYGO9PYAAAAJ&hl=en"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/emmawiles.bsky.social"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/emmavaninwegen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/emmavaninwegen"
