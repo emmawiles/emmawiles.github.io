@@ -26,15 +26,23 @@ details {
 }
 details summary {
   cursor: pointer;
-  color: #555;
+  color: #666;
   font-size: 0.95em;
   display: inline-block;
-  padding: 2px 8px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  list-style: none;
+}
+details summary::-webkit-details-marker {
+  display: none;
+}
+details summary::before {
+  content: '› ';
+  font-size: 1.1em;
+}
+details[open] summary::before {
+  content: '↓ ';
 }
 details summary:hover {
-  background: #f0f0f0;
+  color: #2c4a7c;
 }
 details p {
   margin-top: 0.5em;

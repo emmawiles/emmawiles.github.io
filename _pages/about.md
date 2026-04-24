@@ -12,3 +12,5 @@ I hold the Isabel Anderson Career Development Professorship at Boston University
 I received my PhD from MIT Sloan in 2024. My dissertation titled "Artificial Intelligence and Labor Market Matching" won the University of Padua's International PhD Thesis Award in Artificial Intelligence in Entrepreneurship and Management (AIEM).
 
 Previously I was a researcher at the University of Washington Evans School of Public Policy & Governance studying the effects of the Seattle minimum wage. I graduated with my undergraduate degree in mathematics and economics in 2015.
+
+**Contact:** emma [dot] b [dot] wiles [at] gmail [dot] com
