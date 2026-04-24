@@ -3,7 +3,7 @@ title: "Minimum Wage Increases and Low-Wage Employment: Evidence from Seattle"
 collection: publications
 category: publications
 permalink: /publication/seattle-minimum-wage
-excerpt: 'Seattle's minimum wage increases to $11 (2015) and $13 (2016) reduced aggregate hours in low-wage jobs and significantly reduced hours for less-experienced workers, with aggregate employment elasticities in the range of -0.2 to -2.0.'
+excerpt: 'Seattles minimum wage increases to $11 (2015) and $13 (2016) reduced aggregate hours in low-wage jobs and significantly reduced hours for less-experienced workers, with aggregate employment elasticities in the range of -0.2 to -2.0.'
 date: 2025-01-01
 venue: 'AEJ: Economic Policy'
 paperurl: 'https://emmawiles.github.io/storage/Minimum_Wage_Increases_AEJEP.pdf'
@@ -11,7 +11,7 @@ appendixurl: 'https://drive.google.com/file/d/1aVEXveCfZRzRONkUCNcOOjOuaIaVqZpk/
 workingpaperurl: 'https://www.nber.org/papers/w23532'
 coauthors: 'Ekaterina Jardim, Mark C. Long, Robert Plotnick, Jacob Vigdor, and Hilary Wething'
 presentations: 'NBER Summer Institute 2017, PAA Annual Meeting 2017, APPAM Fall Conference 2016, APPAM International Conference 2016'
-so_what: "Minimum wage effects fall hardest on workers with the least experience, while helping those who already have jobs. The intensive margin (hours) matters as much as the extensive margin (jobs), and studies that only count jobs may be missing most of the story."
+so_what: "Seattles minimum wage increases reduced hours worked in low-wage jobs — especially for less-experienced workers — more than they reduced employment outright."
 media:
   - outlet: "The Economist"
     title: "Coverage of Seattle minimum wage study"
