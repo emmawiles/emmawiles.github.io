@@ -13,7 +13,7 @@ title                    : "Emma Wiles"
 title_separator          : "-"
 name                     : &name "Emma Wiles"
 description              : &description "Isabel Anderson Career Development Professor, BU Questrom School of Business"
-url                      : https://emmawiles.github.io                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://www.emmawiles.com                                                          # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 
