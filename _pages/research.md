@@ -61,33 +61,32 @@ details p {
   </div>
   <div class="paper-meta">{{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
-<div style="display: flex; gap: 1em;">
+  <div style="display: flex; gap: 1em;">
     {% if post.content and post.content != '' %}
-    <details>
+    <details name="paper-{{ post.slug }}">
       <summary>Abstract</summary>
       <p>{{ post.content | strip_html | strip }}</p>
     </details>
     {% endif %}
     {% if post.so_what and post.so_what != '' %}
-    <details>
-      <summary>So what?</summary>
+    <details name="paper-{{ post.slug }}">
+      <summary>One sentence version</summary>
       <p>{{ post.so_what }}</p>
+    </details>
+    {% endif %}
+    {% if post.media %}
+    <details name="paper-{{ post.slug }}">
+      <summary>Media coverage</summary>
+      <ul>
+      {% for item in post.media %}
+        <li><em>{{ item.outlet }}</em>{% if item.url and item.url != '' %}: <a href="{{ item.url }}">{{ item.title }}</a>{% endif %}</li>
+      {% endfor %}
+      </ul>
     </details>
     {% endif %}
   </div>
 </div>
 {% endfor %}
-
-{% if post.media %}
-<details>
-  <summary>Media coverage</summary>
-  <ul>
-  {% for item in post.media %}
-    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-  </ul>
-</details>
-{% endif %}
 
 ---
 
@@ -101,31 +100,32 @@ details p {
   </div>
   <div class="paper-meta">{{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
-  {% if post.content and post.content != '' %}
-  <details>
-    <summary>Abstract</summary>
-    <p>{{ post.content | strip_html | strip }}</p>
-  </details>
-  {% endif %}
-  {% if post.so_what and post.so_what != '' %}
-  <details>
-    <summary>So what?</summary>
-    <p>{{ post.so_what }}</p>
-  </details>
-  {% endif %}
+  <div style="display: flex; gap: 1em;">
+    {% if post.content and post.content != '' %}
+    <details name="paper-{{ post.slug }}">
+      <summary>Abstract</summary>
+      <p>{{ post.content | strip_html | strip }}</p>
+    </details>
+    {% endif %}
+    {% if post.so_what and post.so_what != '' %}
+    <details name="paper-{{ post.slug }}">
+      <summary>One sentence version</summary>
+      <p>{{ post.so_what }}</p>
+    </details>
+    {% endif %}
+    {% if post.media %}
+    <details name="paper-{{ post.slug }}">
+      <summary>Media coverage</summary>
+      <ul>
+      {% for item in post.media %}
+        <li><em>{{ item.outlet }}</em>{% if item.url and item.url != '' %}: <a href="{{ item.url }}">{{ item.title }}</a>{% endif %}</li>
+      {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </div>
 </div>
 {% endfor %}
-
-{% if post.media %}
-<details>
-  <summary>Media coverage</summary>
-  <ul>
-  {% for item in post.media %}
-    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-  </ul>
-</details>
-{% endif %}
 
 ---
 
@@ -139,27 +139,29 @@ details p {
   </div>
   <div class="paper-meta">{{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
-  {% if post.content and post.content != '' %}
-  <details>
-    <summary>Abstract</summary>
-    <p>{{ post.content | strip_html | strip }}</p>
-  </details>
-  {% endif %}
-  {% if post.so_what and post.so_what!= '' %}
-  <details>
-    <summary>So what?</summary>
-    <p>{{ post.so_what }}</p>
-  </details>
-  {% endif %}
+  <div style="display: flex; gap: 1em;">
+    {% if post.content and post.content != '' %}
+    <details name="paper-{{ post.slug }}">
+      <summary>Abstract</summary>
+      <p>{{ post.content | strip_html | strip }}</p>
+    </details>
+    {% endif %}
+    {% if post.so_what and post.so_what != '' %}
+    <details name="paper-{{ post.slug }}">
+      <summary>One sentence version</summary>
+      <p>{{ post.so_what }}</p>
+    </details>
+    {% endif %}
+    {% if post.media %}
+    <details name="paper-{{ post.slug }}">
+      <summary>Media coverage</summary>
+      <ul>
+      {% for item in post.media %}
+        <li><em>{{ item.outlet }}</em>{% if item.url and item.url != '' %}: <a href="{{ item.url }}">{{ item.title }}</a>{% endif %}</li>
+      {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </div>
 </div>
 {% endfor %}
-{% if post.media %}
-<details>
-  <summary>Media coverage</summary>
-  <ul>
-  {% for item in post.media %}
-    <li><em>{{ item.outlet }}</em>: <a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-  </ul>
-</details>
-{% endif %}
