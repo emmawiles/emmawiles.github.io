@@ -61,18 +61,20 @@ details p {
   </div>
   <div class="paper-meta">{{ post.coauthors }}</div>
   <div class="paper-venue">{{ post.venue }}</div>
-  {% if post.content and post.content != '' %}
-  <details>
-    <summary>Abstract</summary>
-    <p>{{ post.content | strip_html | strip }}</p>
-  </details>
-  {% endif %}
-  {% if post.so_what and post.so_what!= '' %}
-  <details>
-    <summary>So what?</summary>
-    <p>{{ post.so_what }}</p>
-  </details>
-  {% endif %}
+<div style="display: flex; gap: 1em;">
+    {% if post.content and post.content != '' %}
+    <details>
+      <summary>Abstract</summary>
+      <p>{{ post.content | strip_html | strip }}</p>
+    </details>
+    {% endif %}
+    {% if post.so_what and post.so_what != '' %}
+    <details>
+      <summary>So what?</summary>
+      <p>{{ post.so_what }}</p>
+    </details>
+    {% endif %}
+  </div>
 </div>
 {% endfor %}
 
