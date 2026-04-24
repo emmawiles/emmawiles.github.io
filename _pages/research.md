@@ -67,10 +67,10 @@ details p {
     <p>{{ post.content | strip_html | strip }}</p>
   </details>
   {% endif %}
-  {% if post.fun_fact and post.fun_fact != '' %}
+  {% if post.so_what and post.so_what!= '' %}
   <details>
-    <summary>Dinner party fun fact</summary>
-    <p>{{ post.fun_fact }}</p>
+    <summary>So what?</summary>
+    <p>{{ post.so_what }}</p>
   </details>
   {% endif %}
 </div>
@@ -105,10 +105,10 @@ details p {
     <p>{{ post.content | strip_html | strip }}</p>
   </details>
   {% endif %}
-  {% if post.fun_fact and post.fun_fact != '' %}
+  {% if post.so_what and post.so_what != '' %}
   <details>
-    <summary>Dinner party fun fact</summary>
-    <p>{{ post.fun_fact }}</p>
+    <summary>So what?</summary>
+    <p>{{ post.so_what }}</p>
   </details>
   {% endif %}
 </div>
@@ -143,10 +143,10 @@ details p {
     <p>{{ post.content | strip_html | strip }}</p>
   </details>
   {% endif %}
-  {% if post.fun_fact and post.fun_fact != '' %}
+  {% if post.so_what and post.so_what!= '' %}
   <details>
-    <summary>Dinner party fun fact</summary>
-    <p>{{ post.fun_fact }}</p>
+    <summary>So what?</summary>
+    <p>{{ post.so_what }}</p>
   </details>
   {% endif %}
 </div>
