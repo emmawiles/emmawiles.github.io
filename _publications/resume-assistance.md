@@ -10,7 +10,7 @@ paperurl: 'https://pubsonline.informs.org/doi/10.1287/mnsc.2024.04528'
 workingpaperurl: 'https://www.nber.org/papers/w30886'
 coauthors: 'Zanele Munyikwa and John Horton'
 presentations: 'NBER Lightning Talk, LinkedIn TechTalk, INFORMS 2022, Wharton Generative AI & Business Conference 2023, Oxford Platform Economics Seminar Series'
-so_what: "Pre-GenAI algorithmic writing tools like Grammarly make it more likely jobseekers get hired, without tricking employers. This could level a playing field that was previously tilted toward people who write well, regardless of their actual ability."
+so_what: "Pre-GenAI algorithmic writing tools like Grammarly make it more likely jobseekers get hired, with no negative impacts on employers, by improving the signal of jobseekers underlying ability."
 media:
   - outlet: "Yahoo News"
     title: "AI can help job seekers get noticed and hired, study finds"
