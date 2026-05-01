@@ -1,12 +1,12 @@
 ---
-title: "Putting AI on the Org Chart: Evidence on Oversight and Accountability"
+title: "Putting AI on the Org Chart: Evidence on Delegation and Oversight"
 collection: publications
 category: working_papers
 permalink: /publication/ai-org-chart
 excerpt: "In a randomized experiment of senior managers, we find that framing AI as an employee rather than a tool reduces managers oversight and shifts their perceived accountability away from themselves — but only in firms that have already formally institutionalized AI agents on their org charts."
-date: 2025-01-10
+date: 2024-12-10
 venue: 
-paperurl: 'https://emmawiles.github.io/storage/ai_employee.pdf'
+paperurl:
 coauthors: 'Megan Hsu, Julie Bedard, and Matt Kropp'
 so_what: "Way more companies have 'AI employees' than you think — and this choice has real consequences for how carefully humans oversee AI mediated work"
 ---
