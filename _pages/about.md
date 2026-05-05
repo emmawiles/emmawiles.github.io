@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold the Isabel Anderson Career Development Professorship at Boston University's Questrom School of Business, and am an Assistant Professor in the Information Systems group. I am also a digital fellow at the MIT Initiative on the Digital Economy and a faculty fellow in BU's Digital Business Institute. My research examines how AI is changing hiring and work— studying both how workers use AI tools and how firms are incorporating AI into their structures and processes. I have published in journals such as Management Science, Journal of Public Economics, and AEJ: Economic Policy.
+I hold the Isabel Anderson Career Development Professorship at Boston University's Questrom School of Business, and am an Assistant Professor in the Information Systems group. I am also a digital fellow at the MIT Initiative on the Digital Economy and a faculty fellow in BU's Digital Business Institute. My research examines how AI is changing hiring and work, for both workers and firms. I also study the design and governance of digital platforms. I have published in journals such as Management Science, Journal of Public Economics, and AEJ: Economic Policy.
 
 I received my PhD from MIT Sloan in 2024. My dissertation titled "Artificial Intelligence and Labor Market Matching" won the University of Padua's International PhD Thesis Award in Artificial Intelligence in Entrepreneurship and Management (AIEM).
 
