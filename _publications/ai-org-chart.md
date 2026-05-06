@@ -6,7 +6,7 @@ permalink: /publication/ai-org-chart
 excerpt: "In a randomized experiment of senior managers, we find that framing AI as an employee rather than a tool reduces managers oversight and shifts their perceived accountability away from themselves — but only in firms that have already formally institutionalized AI agents on their org charts."
 date: 2025-01-02
 venue: 
-paperurl:
+paperurl: 'https://emmawiles.github.io/storage/ai_employee.pdf'
 coauthors: 'Megan Hsu, Julie Bedard, and Matt Kropp'
 so_what: "More companies have 'AI employees' than you think and they occupy a unique position in organizations: treated as delegated producers rather than tools, but not monitored like human employees."
 ---

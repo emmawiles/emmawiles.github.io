@@ -5,6 +5,8 @@ permalink: /popular-press/
 author_profile: true
 ---
 
+- **Harvard Business Review:** [Why You Shouldn’t Treat AI Agents Like Employees](https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees)
+
 - **Economic Innovation Group:** [Early insights into the labor market effects of generative artificial intelligence](https://eig.org/wp-content/uploads/2024/10/TAWP-Wiles-Horton.pdf)
 
 - **BCG White Paper:** [The Rise of the GenAI-Augmented Worker](https://www.bcg.com/publications/2024/gen-ai-increases-productivity-and-expands-capabilities)
