@@ -5,7 +5,7 @@ category: publications
 permalink: /publication/hbr-ai-employees
 excerpt: 
 date: 2026-05-06
-venue:  'Harvard Business Review'
+venue:  'Harvard Business Review (2026)'
 paperurl: 'https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees'
 coauthors: 'Megan Hsu, Lisa Krayer, Julie Bedard, and Matt Kropp'
 presentations: 
