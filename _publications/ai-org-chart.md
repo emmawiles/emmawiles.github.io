@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/ai-org-chart
 excerpt: "In a randomized experiment of senior managers, we find that framing AI as an employee rather than a tool reduces managers oversight and shifts their perceived accountability away from themselves — but only in firms that have already formally institutionalized AI agents on their org charts."
-date: 2025-01-02
+date: 2025-01-07
 venue: 
 paperurl:
 coauthors: 'Megan Hsu, Julie Bedard, and Matt Kropp'
