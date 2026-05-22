@@ -9,6 +9,14 @@ venue:
 paperurl: 'https://emmawiles.github.io/storage/ai_employee.pdf'
 coauthors: 'Megan Hsu, Julie Bedard, and Matt Kropp'
 so_what: "More companies have 'AI employees' than you think and they occupy a unique position in organizations: treated as delegated producers rather than tools, but not monitored like human employees."
+
+media:
+  - outlet: "Wall Street Journal"
+    title: "CEO Brief: How do AI Agent `Workers' affect people?"
+    url: ""
+  - outlet: "New York Times"
+    title: "Noam Shreiber"
+    url: ""
 ---
 
 

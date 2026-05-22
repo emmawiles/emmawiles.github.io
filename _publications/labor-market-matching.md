@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publication/labor-market-matching
 excerpt: 'Employers randomly offered AI-written job post drafts were 19% more likely to post, but there was no increase in matches — wasting jobseeker time. Per-post loss to jobseeker welfare is six times larger than the gain to employer welfare from time saving.'
 date: 2025-01-08
-venue: 
+venue:  'Revise and Resubmit at Management Science'
 paperurl: 'https://emmawiles.github.io/storage/jobot.pdf'
 coauthors: 'John Horton'
 presentations: "Columbia's Management, Analytics, and Data Conference; Yale AI/ML Conference; CMU Mini-Conference on AI and Future of Work"
