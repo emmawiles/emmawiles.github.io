@@ -7,7 +7,7 @@ excerpt:
 date: 2025-01-01
 venue: 
 paperurl: 
-coauthors: '[Katelyn Cranney](https://katelyncranney.com)'
+coauthors: '<a href="https://katelyncranney.com">Katelyn Cranney</a>'
 so_what: 
 ---
 
