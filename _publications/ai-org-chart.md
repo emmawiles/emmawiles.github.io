@@ -15,8 +15,8 @@ media:
     title: "CEO Brief: How do AI Agent `Workers' affect people?"
     url: ""
   - outlet: "New York Times"
-    title: "Noam Shreiber"
-    url: ""
+    title: "A.I. 'Employees' Might Disrupt Work in Unexpected Ways,Noam Shreiber"
+    url: "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html"
 ---
 
 
