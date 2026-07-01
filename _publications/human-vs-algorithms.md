@@ -6,7 +6,7 @@ permalink: /publication/human-vs-algorithms
 excerpt: 'In a randomized experiment with 83,017 job posts, human recruiting assistants generated more applications and interviews but did not improve hire rates — and treated employers spent 10% less on hires, suggesting worse matches.'
 date: 2025-01-09
 venue:
-paperurl: 'https://www.emmawiles.com/storage/psm.pdf'
+paperurl: 
 coauthors: 'John Fallon and John Horton'
 so_what: 'In a large randomized experiment, hiring consultants generated more applications and interviews but did not improve hire rates, compared to employers who only used algorithmic screening tools.'
 ---
