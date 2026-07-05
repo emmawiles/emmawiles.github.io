@@ -17,3 +17,6 @@ Previously I was a researcher at the University of Washington Evans School of Pu
 
 My CV is available [here](https://emmawiles.github.io/storage/wiles_emma_cv.pdf).
 **Contact:** emma [dot] b [dot] wiles [at] gmail [dot] com
+Nationality: USA
+Spouse: [Edward Wiles](https://edward-wiles.com/). (Trade and Development Economist)
+
