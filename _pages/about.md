@@ -18,6 +18,6 @@ Previously I was a researcher at the University of Washington Evans School of Pu
 In my free time I enjoy musical theatre, the premier league and international football, and sampling the various playgrounds of Cambridge with my daughter and husband.
 
 My CV is available [here](https://emmawiles.github.io/storage/wiles_emma_cv.pdf).
-**Contact:** emma [dot] b [dot] wiles [at] gmail [dot] com  
+Contact: emma [dot] b [dot] wiles [at] gmail [dot] com  
 Spouse: [Edward Wiles](https://edward-wiles.com/). (Trade and Development Economist)  
 
