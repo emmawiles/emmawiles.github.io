@@ -11,6 +11,8 @@ Current projects examine AI-assistance in hiring, matching and hiring on online 
 
 We collaborate with industry partners and policy audiences, with the goal of producing evidence that informs the design and governance of AI-enabled labor markets.
 
+I am always interested in hearing from ambitious students who are excited about these topics and are strong critical thinkers. Please email me if you would like to get involved with the HIRE Lab. I am currently able to hire only Boston University students as research assistants, but I am also happy to hear from PhD students at other universities whose research interests overlap, although I am not able to provide funding for external students.
+
 <img src="/images/HIRE_lab.jpg" style="width: 50%; display: block;" alt="HIRE Lab">
 
 ## Team
