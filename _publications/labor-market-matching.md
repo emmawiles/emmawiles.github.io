@@ -1,5 +1,5 @@
 ---
-title: "Generative AI and Labor Market Matching Efficiency"
+title: "More, but Worse: The Marketplace Effects of AI-Generated Job Posts (Previously, Generative AI and Labor Market Matching Efficiency)"
 collection: publications
 category: working_papers
 permalink: /publication/labor-market-matching
@@ -22,4 +22,10 @@ media:
     url: "https://medium.com/mit-initiative-on-the-digital-economy/using-genai-to-write-job-descriptions-put-some-effort-into-it-64e89f0b5fa6"
 ---
 
-Reductions in private search costs due to advances in information technology can improve market efficiency. Although, changes in private search costs can change behaviors, making the welfare implications unclear if that behavior creates negative externalities, as was the case here. We consider the market efficiency effects of the introduction of an AI tool into a labor market. In order to lower their search costs, potential employers were randomly offered AI-written first drafts of their job post. The assistance was widely accepted and treated employers were 19% more likely to post a job; those posting spent 44% less time writing. Despite the substantial increase in job posts, there was no discernible increase in matches. The lack of match formation was mostly due to marginal jobs being posted by employers with lower intent. Up to a fifth of the missing matches were caused by direct impacts on the job posts—in the sense that they were more generic and less informative to jobseekers. This combination of increased congestion and degradation in informativeness wasted jobseeker time as jobseekers applied to jobs they otherwise would not have. Quantifying this waste, the per job post loss to jobseeker welfare is six times larger than the increase to employer welfare from time saving. These negative efficiency outcomes persist after the close to market wide adoption of the technology, showing the reductions in private search costs in this context harmed market efficiency.
+	 Generative AI makes it dramatically cheaper to produce the information that labor markets rely on for hiring---but cheaper communication need not improve matching.
+  We consider the effects of the introduction of a generative AI tool in a large scale field experiment on an online labor market, which lowered employers' search costs by randomly offering them AI-written first drafts of their job post.
+  The assistance was widely accepted and treated employers were 19 % more likely to post a job. It also saved employers time---treated employers spent 44% less time writing their job posts.
+  Despite the substantial increase in job posts, there was no discernible increase in matches in the treatment group. 
+ We provide evidence that the treated job posts were more generic and less informative to jobseekers.
+  This combination of increased job post volume and reduced informativeness diluted signals of employer seriousness. A time-cost accounting implies jobseeker application time costs are roughly six times larger than employer time savings per treated employer. In a subsequent platform roll-out expanding the access of the AI tool, posting responses attenuated while lower hiring conditional on posting remained, suggesting that learning and increased adoption did not eliminate these frictions.
+ 
