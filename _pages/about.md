@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an applied labor economist studying the economic and societal impacts of AI. I hold the Isabel Anderson Career Development Professorship at Boston University's Questrom School of Business. I am also a digital fellow at the MIT Initiative on the Digital Economy and a faculty fellow in BU's Human Resource Policy Institute. 
+I hold the Isabel Anderson Career Development Professorship at Boston University's Questrom School of Business, studying the economic and societal impacts of AI. I am also a digital fellow at the MIT Initiative on the Digital Economy and a faculty fellow in BU's Human Resource Policy Institute. 
 
 My research examines how AI is changing work, for both workers and firms. I use large-scale field experiments, complemented by quasi-experimental methods, in collaboration with firms, digital platforms, and policymakers. I study hiring, job search, and reskilling in an AI mediated labor market, as well as novel work arrangements as AI agents are embedded in different roles in organizations. 
 
